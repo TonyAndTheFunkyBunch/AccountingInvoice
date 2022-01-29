@@ -1,0 +1,59 @@
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\Accounting Invoice\Accounting Invoice\bin\Debug\Accounting Invoice.exe.config
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\Accounting Invoice\Accounting Invoice\bin\Debug\Accounting Invoice.exe
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\Accounting Invoice\Accounting Invoice\bin\Debug\Accounting Invoice.pdb
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\Accounting Invoice\Accounting Invoice\bin\Debug\MetroFramework.Design.dll
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\Accounting Invoice\Accounting Invoice\bin\Debug\MetroFramework.dll
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\Accounting Invoice\Accounting Invoice\bin\Debug\MetroFramework.Fonts.dll
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\Accounting Invoice\Accounting Invoice\obj\Debug\Accounting Invoice.csprojResolveAssemblyReference.cache
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\Accounting Invoice\Accounting Invoice\obj\Debug\Accounting_Invoice.Form1.resources
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\Accounting Invoice\Accounting Invoice\obj\Debug\Accounting_Invoice.Properties.Resources.resources
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\Accounting Invoice\Accounting Invoice\obj\Debug\Accounting Invoice.csproj.GenerateResource.Cache
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\Accounting Invoice\Accounting Invoice\obj\Debug\Accounting Invoice.exe
+c:\users\anthony.dedios\documents\visual studio 2013\Projects\Accounting Invoice\Accounting Invoice\obj\Debug\Accounting Invoice.pdb
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Accounting Invoice - Copy\Accounting Invoice\bin\Debug\Accounting Invoice.exe.config
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Accounting Invoice - Copy\Accounting Invoice\obj\Debug\Accounting Invoice.exe
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Accounting Invoice - Copy\Accounting Invoice\obj\Debug\Accounting Invoice.pdb
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Accounting Invoice - Copy\Accounting Invoice\bin\Debug\Accounting Invoice.exe
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Accounting Invoice - Copy\Accounting Invoice\bin\Debug\Accounting Invoice.pdb
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Accounting Invoice - Copy\Accounting Invoice\bin\Debug\MetroFramework.Design.dll
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Accounting Invoice - Copy\Accounting Invoice\bin\Debug\MetroFramework.dll
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Accounting Invoice - Copy\Accounting Invoice\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Accounting Invoice - Copy\Accounting Invoice\obj\Debug\Accounting Invoice.csprojResolveAssemblyReference.cache
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Accounting Invoice - Copy\Accounting Invoice\obj\Debug\Accounting_Invoice.Form1.resources
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Accounting Invoice - Copy\Accounting Invoice\obj\Debug\Accounting_Invoice.Properties.Resources.resources
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Accounting Invoice - Copy\Accounting Invoice\obj\Debug\Accounting Invoice.csproj.GenerateResource.Cache
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug\Accounting Invoice\bin\Debug\Accounting Invoice.exe.config
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug\Accounting Invoice\obj\Debug\Accounting Invoice.exe
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug\Accounting Invoice\obj\Debug\Accounting Invoice.pdb
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug\Accounting Invoice\bin\Debug\Accounting Invoice.exe
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug\Accounting Invoice\bin\Debug\Accounting Invoice.pdb
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug\Accounting Invoice\bin\Debug\MetroFramework.Design.dll
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug\Accounting Invoice\bin\Debug\MetroFramework.dll
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug\Accounting Invoice\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug\Accounting Invoice\obj\Debug\Accounting_Invoice.Properties.Resources.resources
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug\Accounting Invoice\obj\Debug\Accounting Invoice.csproj.GenerateResource.Cache
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug\Accounting Invoice\obj\Debug\Accounting_Invoice.InvoiceForm.resources
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug\Accounting Invoice\obj\Debug\Accounting_Invoice.Printing_Form.resources
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug new\Accounting Invoice\bin\Debug\Accounting Invoice.exe.config
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug new\Accounting Invoice\obj\Debug\Accounting Invoice.exe
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug new\Accounting Invoice\obj\Debug\Accounting Invoice.pdb
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug new\Accounting Invoice\bin\Debug\Accounting Invoice.exe
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug new\Accounting Invoice\bin\Debug\Accounting Invoice.pdb
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug new\Accounting Invoice\bin\Debug\MetroFramework.Design.dll
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug new\Accounting Invoice\bin\Debug\MetroFramework.dll
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug new\Accounting Invoice\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug new\Accounting Invoice\obj\Debug\Accounting Invoice.csprojResolveAssemblyReference.cache
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug new\Accounting Invoice\obj\Debug\Accounting_Invoice.InvoiceForm.resources
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug new\Accounting Invoice\obj\Debug\Accounting_Invoice.Printing_Form.resources
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug new\Accounting Invoice\obj\Debug\Accounting_Invoice.Properties.Resources.resources
+C:\Users\anthony.dedios\Documents\Visual Studio 2013\Projects\Debug new\Accounting Invoice\obj\Debug\Accounting Invoice.csproj.GenerateResource.Cache
+C:\Users\Anthony\Desktop\Debug new\Accounting Invoice\bin\Debug\Accounting Invoice.exe.config
+C:\Users\Anthony\Desktop\Debug new\Accounting Invoice\obj\Debug\Accounting Invoice.exe
+C:\Users\Anthony\Desktop\Debug new\Accounting Invoice\obj\Debug\Accounting Invoice.pdb
+C:\Users\Anthony\Desktop\Debug new\Accounting Invoice\bin\Debug\Accounting Invoice.exe
+C:\Users\Anthony\Desktop\Debug new\Accounting Invoice\bin\Debug\Accounting Invoice.pdb
+C:\Users\Anthony\Desktop\Debug new\Accounting Invoice\obj\Debug\Accounting Invoice.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Debug new\Accounting Invoice\obj\Debug\Accounting_Invoice.InvoiceForm.resources
+C:\Users\Anthony\Desktop\Debug new\Accounting Invoice\obj\Debug\Accounting_Invoice.Printing_Form.resources
+C:\Users\Anthony\Desktop\Debug new\Accounting Invoice\obj\Debug\Accounting_Invoice.Properties.Resources.resources
+C:\Users\Anthony\Desktop\Debug new\Accounting Invoice\obj\Debug\Accounting Invoice.csproj.GenerateResource.Cache
